@@ -1,0 +1,14 @@
+[
+  {
+    "file": "data/raw/ftec_2016_2023_nasdaq.json",
+    "source_url": "https://api.nasdaq.com/api/quote/FTEC/historical?assetclass=etf&limit=5000&fromdate=2013-10-24&todate=2023-12-29",
+    "sha256": "8404b01b5fe0a446f49b3181a16671135961e31cfdbc7069454bf8a6612e6449",
+    "size_bytes": 185546
+  },
+  {
+    "file": "data/raw/nasdaq_news_scores.parquet",
+    "source_url": "https://huggingface.co/datasets/HYL/NASDAQ-News-Multi-LLM-Scores/resolve/main/scores.parquet",
+    "sha256": "23dfef57d1cb3cbaa8fc64738edc7e4483b059e16e8bc5b3979dce5b7409479b",
+    "size_bytes": 12151029
+  }
+]
